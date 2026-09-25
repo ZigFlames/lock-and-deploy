@@ -1,0 +1,4 @@
+node_modules/
+dist/
+tests/last-run.json
+.DS_Store
