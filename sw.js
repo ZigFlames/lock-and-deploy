@@ -1,6 +1,6 @@
 /* Lock & Deploy service worker: offline app shell. Makes no network calls of its own
    beyond fetching this app's static files. There is no backend and no bank API. */
-const VERSION = 'ld-b878093776';
+const VERSION = 'ld-5578af6d88';
 const CACHE = `lock-deploy-${VERSION}`;
 const ASSETS = [
   './', './index.html', './manifest.webmanifest', './css/styles.css',

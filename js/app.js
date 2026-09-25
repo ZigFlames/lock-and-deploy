@@ -445,6 +445,7 @@ function viewSettings(s) {
   <section class="card note"><h2>About</h2>
     <p>Lock & Deploy is "reverse financing": instead of buying now and paying later, you lock money away on a schedule and the goal unlocks when it's fully saved.</p>
     <p class="small muted">Phase 1 prototype. Your data stays on this device (browser storage). Not financial or legal advice.</p>
+    <p class="small"><a href="../lock-and-deploy-vault/" data-testid="vault-link">Try the Vault version (Hard Lock, Roll Over &amp; Relock, AI bot approvals) →</a></p>
   </section>`;
 }
 
